@@ -1,0 +1,117 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    position: relative;
+    background-size: cover;
+    color: #333;
+}
+
+.hotelheader {
+background-image: url('/storage/emulated/0/SSEGIRINYA PIUS_BAIT.25D.U.A1002/images/intro.png');
+  
+    font-size:20px;
+    position:relative;
+    background-size:cover ;
+    color: red;
+    text-align: center;    
+    padding: 3px;
+}
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+nav ul {
+    list-style: none;
+    padding: 20px;
+    margin: 15px 0 0 0;
+    display: flex;
+    color:white;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+nav ul li {
+    margin: 10px;
+}
+nav ul li a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+.menu-card {
+  text-align:center ;
+  background-color: white;
+  border-radius: 30px;
+  border: 5px solid grey;
+  border-align: center;
+  font-weight: bold;
+  width: 250px;
+  margin: 60px;
+  padding: 30px;
+  justify-content: center;
+  margin:auto;
+}
+p{
+    text-align: center;
+}
+nav ul li {
+    margin: 8px;
+}
+nav ul li a:hover {
+    background-color: white;
+    }
+    .meeting-rooms{
+  text-align:center ;
+  background-color: white;
+  border-radius: 30px;
+  border:5px solid grey;
+  font-weight: bold;
+  width: 250px;
+  margin:auto;
+  padding:30px;
+  justify-content:center;
+  margin:auto;
+        
+    }
+    .Room-card{
+        text-align: center;
+        border-radius:30px;
+        background-color: white;
+        font-weight:bold;
+        width:250px;
+        margin:auto;
+        border:5px solid grey;
+        padding:30px;
+        border-align: center;
+    }
+    .intro{
+        text-align: center;
+        font-size:20px;
+    }
+    .core ul{
+        list-style:none;
+    }
+    . gallary h3{
+        align: center;
+        color:red;
+    }
+    . gallary a{
+        text-align: center;
+        justify-content: center;
+    }
+    .facilities{
+        border:5px solid grey;
+        width:250px;
+        border-radius:30px;
+        padding:30px;
+        margin:auto;
+        background-color:white;
+    }
+    .hotelfooter{
+        font-size:20px;
+        background-color:green;
+        background-size:cover;
+    }
