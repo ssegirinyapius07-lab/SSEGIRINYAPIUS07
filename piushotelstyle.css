@@ -9,7 +9,7 @@ body {
 }
 
 .hotelheader {
-background-image: url('/storage/emulated/0/SSEGIRINYA PIUS_BAIT.25D.U.A1002/images/intro.png');
+background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/intro.png');
   
     font-size:20px;
     position:relative;
@@ -35,7 +35,7 @@ nav ul li {
     margin: 10px;
 }
 nav ul li a {
-    color: green;
+    color: yellow;
     text-decoration: none;
     font-weight: bold;
     padding: 8px 12px;
@@ -115,4 +115,5 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
