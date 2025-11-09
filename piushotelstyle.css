@@ -2,14 +2,14 @@ body {
     font-family: "Poppins", sans-serif;
     margin: 0;
     padding: 0;
-    background-color: yellow;
+    background-color: gold;
     position: relative;
     background-size: cover;
     color: #333;
 }
 
 .hotelheader {
-background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/intro.png');
+background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/pius1.jpg');
   
     font-size:20px;
     position:relative;
@@ -115,5 +115,6 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
 
