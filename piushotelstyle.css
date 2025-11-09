@@ -35,7 +35,7 @@ nav ul li {
     margin: 10px;
 }
 nav ul li a {
-    color: yellow;
+    color: green;
     text-decoration: none;
     font-weight: bold;
     padding: 8px 12px;
@@ -115,3 +115,4 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
