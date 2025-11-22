@@ -51,9 +51,9 @@ nav ul li a {
   font-weight: bold;
   width: 250px;
   margin: 60px;
-  padding: 50px;
+  padding: 8px;
   justify-content: center;
-  margin:auto;
+  margin:8px;
 }
 p{
     text-align: center;
@@ -116,6 +116,7 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
 
 
