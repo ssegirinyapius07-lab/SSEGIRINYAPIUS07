@@ -12,7 +12,7 @@ ibody {
 .hotelheader {
 background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/pius2.jpg');
   
-    font-size:2em;
+    font-size:50px;
     position:relative;
     background-size:cover ;
     color: red;
@@ -105,18 +105,19 @@ nav ul li a:hover {
         justify-content: center;
     }
     .facilities{
-        border:5px solid grey;
+        border:30px solid grey;
         width:250px;
         border-radius:50px;
         padding:50px;
-        margin:auto;
+        margin:30px;
         background-color:white;
     }
     .hotelfooter{
-        font-size:2em;
+        font-size:50px;
         background-color:green;
         background-size:cover;
     }
+
 
 
 
