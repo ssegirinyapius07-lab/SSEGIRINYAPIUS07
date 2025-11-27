@@ -50,8 +50,8 @@ nav ul li a {
   border-align: center;
   font-weight: bold;
   width: 250px;
-  margin: 60px;
-  padding: 8px;
+  margin:
+  padding: 70px;
   justify-content: center;
   margin:auto;
 }
@@ -72,7 +72,7 @@ nav ul li a:hover {
   font-weight: bold;
   width: 250px;
   margin:auto;
-  padding:50px;
+  padding:70px;
   justify-content:center;
   margin:auto;
         
@@ -85,7 +85,7 @@ nav ul li a:hover {
         width:250px;
         margin:auto;
         border:10px solid grey;
-        padding:50px;
+        padding:70px;
         border-align: center;
     }
     .intro{
@@ -107,7 +107,7 @@ nav ul li a:hover {
         border:10px solid grey;
         width:250px;
         border-radius:8px;
-        padding:50px;
+        padding:70px;
         margin:auto;
         background-color:white;
     }
@@ -116,6 +116,7 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
 
 
