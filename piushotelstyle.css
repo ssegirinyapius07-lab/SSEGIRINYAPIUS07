@@ -20,7 +20,7 @@ background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/p
 }
 header h1 {
     margin: 0;
-    font-size:40px;
+    font-size:2em;
 }
 nav ul {
     list-style: none;
@@ -30,7 +30,7 @@ nav ul {
     color:white;
     justify-content: center;
     flex-wrap: wrap;
-    font-size: 25px;
+    font-size: 20px;
 }
 nav ul li {
     margin: 10px;
@@ -50,8 +50,7 @@ nav ul li a {
   border-align: center;
   font-weight: bold;
   width: 250px;
-  margin:
-  padding: 70px;
+  padding:70px;
   justify-content: center;
   margin:auto;
 }
@@ -116,6 +115,7 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
 
 
