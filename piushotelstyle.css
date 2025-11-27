@@ -1,4 +1,4 @@
-body {
+body{
     font-family: "Poppins", sans-serif;
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
 .hotelheader {
 background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/pius2.jpg');
   
-    font-size:20px;
+    font-size:10px;
     position:relative;
     background-size:cover ;
     color: red;
@@ -21,7 +21,7 @@ background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/p
 }
 header h1 {
     margin: 0;
-    font-size: 2em;
+    font-size:20px;
 }
 nav ul {
     list-style: none;
@@ -31,7 +31,7 @@ nav ul {
     color:white;
     justify-content: center;
     flex-wrap: wrap;
-    font-size: 2em;
+    font-size: 10px;
 }
 nav ul li {
     margin: 10px;
@@ -109,14 +109,15 @@ nav ul li a:hover {
         width:250px;
         border-radius:8px;
         padding:50px;
-        margin:30px;
+        margin:auto;
         background-color:white;
     }
     .hotelfooter{
-        font-size:50px;
+        font-size:20px;
         background-color:green;
         background-size:cover;
     }
+
 
 
 
