@@ -53,7 +53,7 @@ nav ul li a {
   padding:70px;
   justify-content: center;
   margin:auto;
-}
+  font-size:18px;
 p{
     text-align: center;
 }
@@ -74,6 +74,8 @@ nav ul li a:hover {
   padding:70px;
   justify-content:center;
   margin:auto;
+  font-size:18px;
+
         
     }
     .Room-card{
@@ -86,6 +88,8 @@ nav ul li a:hover {
         border:10px solid grey;
         padding:70px;
         border-align: center;
+        font-size:18px;
+
     }
     .intro{
         text-align: center;
@@ -109,12 +113,15 @@ nav ul li a:hover {
         padding:70px;
         margin:auto;
         background-color:white;
+        font-size:18px;
+
     }
     .hotelfooter{
         font-size:20px;
         background-color:green;
         background-size:cover;
     }
+
 
 
 
