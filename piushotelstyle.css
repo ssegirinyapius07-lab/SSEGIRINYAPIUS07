@@ -2,7 +2,7 @@ ibody {
     font-family: "Poppins", sans-serif;
     margin: 0;
     padding: 0;
-    font-size:3em;
+    font-size:16px;
     background-color: gold;
     position: relative;
     background-size: cover;
@@ -117,6 +117,7 @@ nav ul li a:hover {
         background-color:green;
         background-size:cover;
     }
+
 
 
 
