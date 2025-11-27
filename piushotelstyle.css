@@ -17,10 +17,11 @@ background-image: url('https://ssegirinyapius07-lab.github.io/SSEGIRINYAPIUS07/p
     color: red;
     text-align: center;    
     padding: 3px;
+    margin:2px;
 }
 header h1 {
     margin: 0;
-    font-size:40px;
+    font-size:50px;
 }
 nav ul {
     list-style: none;
@@ -121,7 +122,10 @@ nav ul li a:hover {
         font-size:20px;
         background-color:green;
         background-size:cover;
+        margin:2px; 
+
     }
+
 
 
 
